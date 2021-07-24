@@ -1,0 +1,17 @@
+{
+    "securePaymentContainerRequest": {
+        "merchantAuthentication": {
+            "name": "97FqPj4f",
+            "clientKey": "6XnFcgC57QW54MXY9yR37meLmpJ68mL7mDbwd3JBkVQf7cFJe4ry3397z8CVVer3"
+        },
+        "clientId": "accept-ui-v3",
+        "data": {
+            "type": "TOKEN",
+            "id": "4908b3cf-1699-3ca4-d1ca-03089260840e",
+            "token": {
+                "cardNumber": "5424000000000015",
+                "expirationDate": "1123"
+            }
+        }
+    }
+}
